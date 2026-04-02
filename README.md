@@ -1,17 +1,23 @@
 # Agentic Primitives
 
-[![npm version](https://img.shields.io/npm/v/agentic-primitives)](https://www.npmjs.com/package/agentic-primitives)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.3-blue.svg)](https://www.typescriptlang.org/)
-[![Node.js >=18](https://img.shields.io/badge/node-%3E%3D18-brightgreen.svg)](https://nodejs.org/)
+<p align="center">
+  <a href="https://www.npmjs.com/package/agentic-primitives"><img src="https://img.shields.io/npm/v/agentic-primitives" alt="npm version" /></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-5.3-blue.svg" alt="TypeScript" /></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/node-%3E%3D18-brightgreen.svg" alt="Node.js >=18" /></a>
+</p>
 
-**Composable architectural patterns for building autonomous AI agents.**
+<p align="center"><strong>Composable architectural patterns for building autonomous AI agents.</strong></p>
 
-Five focused primitives: memory consolidation, proactive tick loops, multi-agent coordination, runtime feature gates, and modular prompt composition. Framework-agnostic. Works with any LLM provider. Use one or use all.
+<p align="center">Five focused primitives: memory consolidation, proactive tick loops, multi-agent coordination, runtime feature gates, and modular prompt composition. Framework-agnostic. Works with any LLM provider. Use one or use all.</p>
 
-```
+<p align="center">
+
+```bash
 npm install agentic-primitives
 ```
+
+</p>
 
 ---
 
